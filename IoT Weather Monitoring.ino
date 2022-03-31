@@ -1,7 +1,7 @@
 #include <OneWire.h>
 #include <DallasTemperature.h>
 #include <ESP8266WiFi.h>
-//DS18B20 is connected to
+//DS18B20 is connected
 const int oneWireBus = 5;     
 const int ledPin = 15; 
 // OneWire instance to communicate with any OneWire devices
